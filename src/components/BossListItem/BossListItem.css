@@ -1,0 +1,17 @@
+.boss-list-item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.boss-list-item__name {
+  height: auto;
+  width: 100%;
+}
+
+.boss-list-item-background {
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-size: 100%;
+}

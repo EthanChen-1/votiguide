@@ -1,0 +1,94 @@
+{
+  "bosses": [
+    {
+      "name": "Eranog",
+      "image": "https://wow.zamimg.com/uploads/screenshots/normal/1090392-eranog.jpg"
+    },
+    {
+      "name": "Terros",
+      "image": "https://wow.zamimg.com/uploads/screenshots/normal/1090391-terros.jpg"
+    },
+
+    {
+      "name": "Primal Council",
+      "image": "https://wow.zamimg.com/uploads/guide/seo/18174.jpg?1670732976"
+    },
+    {
+      "name": "Sennarth, The Cold Breath",
+      "image": "https://wow.zamimg.com/uploads/guide/seo/18432.jpg?1670731765"
+    },
+    {
+      "name": "Dathea, Ascended",
+      "image": "https://wow.zamimg.com/uploads/screenshots/normal/1090395-dathea-ascended.jpg"
+    },
+    {
+      "name": "Kurog Grimtotem",
+      "image": "https://wow.zamimg.com/uploads/guide/seo/18535.jpg?1670730654"
+    },
+    {
+      "name": "Broodkeeper Diurna",
+      "image": "https://wow.zamimg.com/uploads/guide/seo/18755.jpg?1670796267"
+    },
+    {
+      "name": "Raszageth the Storm-Eater",
+      "image": "https://wow.zamimg.com/uploads/guide/header/18854.jpg?1670889683&"
+    }
+  ],
+
+  "bossinfo": [
+    {
+      "attacks": [
+        "Molten Cleave",
+        "Army of Flame",
+        "Flame Rifts",
+        "Incinerating Roar"
+      ]
+    },
+    {
+      "attacks": [
+        "Rock Blast",
+        "Awakened Earth",
+        "Concussive Slam",
+        "Resonating Annihilation"
+      ]
+    },
+    {
+      "attacks": [
+        "Conductive Mark",
+        "Meteor Axe",
+        "Scorched Ground",
+        "Primal Blizzard"
+      ]
+    },
+    {
+      "attacks": ["Sticky Webbing", "Chilling Blast", "Caustic Eruption"]
+    },
+    {
+      "attacks": ["Crosswinds", "Conductive Marks", "Cyclone"]
+    },
+    {
+      "attacks": [
+        "Primal Attunement",
+        "Skeletal Fractures",
+        "Elemental Shift",
+        "Elemental Surge"
+      ]
+    },
+    {
+      "attacks": [
+        "Rapid Incubation",
+        "Greatstaff's Wrath",
+        "Broodkeeper's Fury",
+        "Ice Barrage"
+      ]
+    },
+    {
+      "attacks": [
+        "Hurricane Wing",
+        "Lightning Devastation",
+        "Stormsurge",
+        "Raging Storm"
+      ]
+    }
+  ]
+}

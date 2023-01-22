@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import BossList from "./components/BossList/BossList";
+import "./App.css";
 
-function App() {
+const boss = require("./bosses.json");
+const bosses = boss.bosses;
+const bossInfo = boss.bossinfo;
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app-style">
+      <h1>
+        Vault of the Incarnates
+        <br /> Raid Guide
+      </h1>
+      <BossList bosses={bosses} bossInfo={bossInfo} />
+      <p>Created by @EthanChen-1</p>
+      <p>All Image Credits go to Wowhead.com</p>
     </div>
   );
 }
-
-export default App;
