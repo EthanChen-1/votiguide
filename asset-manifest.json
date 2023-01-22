@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/votiguide/static/css/main.6bfebe47.css",
+    "main.js": "/votiguide/static/js/main.78ccece3.js",
+    "index.html": "/votiguide/index.html",
+    "main.6bfebe47.css.map": "/votiguide/static/css/main.6bfebe47.css.map",
+    "main.78ccece3.js.map": "/votiguide/static/js/main.78ccece3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfebe47.css",
+    "static/js/main.78ccece3.js"
+  ]
+}
